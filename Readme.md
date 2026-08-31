@@ -1,2 +1,2 @@
 # Git Course
-This is complete Git course
+This is complete Git co
